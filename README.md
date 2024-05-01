@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer👨‍💻;Based+in+Seoul,+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
 </div>
+<img style="margin:10px" align="right" alt="Hello world gif" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height="300" width="400" />
 
 ## 🌏 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bobur_jontojiboyev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boburjon-tojiboyev-245a39263/) 
